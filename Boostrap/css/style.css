@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2? family= Bree+Serif & mostrar=cambiar');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Bree Serif', serif;
+}
+.hero {
+    background-image: url(../imag/2e93c700-d7fd-4ed4-8736-190a3dfbd4a6.37c7a9cb7d04028d0212ddf1fd22b1a8.jpeg);
+    height: 96vh;
+    
+    
+    } 
+ 
